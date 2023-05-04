@@ -1,0 +1,19 @@
+START
+0 for info 1 for file
+0?
+NO
+file exist?
+YES
+Read file
+END
+NO
+File does not exist. Start over.
+END
+YES
+enter name
+loop i=0; i < 5; i++
+enter class i credits:
+enter class i grade:
+calculateGPA()
+output GPA
+END
